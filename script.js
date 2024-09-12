@@ -80,4 +80,4 @@ function mostraResultado(){
 //2 Dentro de cada SE altere o conteúdo de texto de caixaPerguntas exemplo
 //     Quando ouro coloque "Resultado da competição: 3 pontos é BRONZE!";
 
-mostraPergunta(); 
+mostraPergunta();
